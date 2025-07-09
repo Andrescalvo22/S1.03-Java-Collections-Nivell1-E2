@@ -1,40 +1,41 @@
-# 📄Descripció - Enunciat de l'exercici
+# 📄Description – Exercise Statement
+Create a List<Integer> with values.
+Use a ListIterator to read the elements and insert them into a second list in reverse order.
 
-Crear una llista `List<Integer>` amb valors.  
-Utilitzar un `ListIterator` per llegir els elements i inserir-los en una segona llista en ordre invers.
+# 💻Technologies Used
+Java SE 21
 
-# 💻Tecnologies Utilitzades
+Libraries: java.util.List, ArrayList, ListIterator
 
-- Java SE 11  
-- Llibreries: `java.util.List`, `ArrayList`, `ListIterator`  
-- IDE (IntelliJ, Eclipse, etc.)
+IDE (IntelliJ, Eclipse, etc.)
 
-# 📋Requisits
+# 📋Requirements
+Java JDK 11 or higher
 
-- Java JDK 11 o superior  
-- Coneixement de col·leccions en Java  
-- Ús de `ListIterator`
+Knowledge of Java collections
 
-# 🛠️Instal·lació
+Use of ListIterator
 
-1. Clonar o descarregar el projecte.  
-2. Obrir-lo en el teu IDE.  
-3. Compilar la classe principal.
+ # 🛠️Installation
+Clone or download the project.
 
+Open it in your IDE.
 
-# ▶️Execució
+Compile the main class.
 
-Executar la classe principal que:
+ # ▶️Execution
+Run the main class that:
 
-1. Crea i emplena una `List<Integer>`.  
-2. Llegeix la llista amb un `ListIterator`.  
-3. Insereix els valors en una nova llista en ordre invers.  
-4. Mostra el resultat per pantalla.
+Creates and fills a List<Integer>.
 
-# 🌐Desplegament
+Reads the list using a ListIterator.
 
-Aquest projecte està pensat per a ser executat localment com a pràctica, per tant, no disposa d’un procés específic de desplegament.
+Inserts the values into a new list in reverse order.
 
-# 🤝Contribucions
+Displays the result on screen.
 
-Fer fork, crear branca, commit i enviar pull request.
+# 🌐Deployment
+This project is intended to be run locally as a practice exercise, and therefore has no specific deployment process.
+
+# 🤝Contributions
+Fork the repository, create a branch, commit your changes, and submit a pull request.
