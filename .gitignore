@@ -14,14 +14,14 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
+.idea/
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
-
+*.class
 ### VS Code ###
 .vscode/
 
